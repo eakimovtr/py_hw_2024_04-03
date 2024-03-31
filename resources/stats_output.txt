@@ -1,0 +1,6 @@
+hw_2024_04_03/resources/stats_src.txt
+Lines: 2
+Symbols: 15
+Vowels: 5
+Consonants: 5
+Digits: 5
